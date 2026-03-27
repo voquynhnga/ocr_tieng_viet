@@ -1,0 +1,18 @@
+{
+  "total_source_folders": 255,
+  "target_ratio": {
+    "train": 70,
+    "validation": 15,
+    "test": 15
+  },
+  "actual_folder_counts": {
+    "train": 179,
+    "validation": 38,
+    "test": 38
+  },
+  "total_processed_images": 7229,
+  "num_clipped_images": 0,
+  "num_errors": 0,
+  "duplicate_hash_count_global": 0,
+  "output_root": "d:\\ki8\\xla\\project\\dataset\\dataset_TV\\UIT_HWDB_line\\UIT_HWDB_line\\split_by_folder_70_15_15_processed"
+}

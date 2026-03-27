@@ -1,0 +1,10 @@
+{
+  "global_duplicate_hash_count": 0,
+  "global_duplicate_image_count": 0,
+  "duplicates_global": {},
+  "duplicates_by_split": {
+    "train": {},
+    "validation": {},
+    "test": {}
+  }
+}
