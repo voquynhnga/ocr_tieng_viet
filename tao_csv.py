@@ -3,7 +3,7 @@ import csv
 import os
 from pathlib import Path
 
-BASE_DIR = Path(r"/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli")
+BASE_DIR = Path.cwd() / "data_daxuli"  # Adjust if your data is in a different location
 SPLITS = ["train", "test", "validation"]
 
 for split in SPLITS:
