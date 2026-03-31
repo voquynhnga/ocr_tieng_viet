@@ -1,10 +1,9 @@
 import json
 import csv
-import os
 from pathlib import Path
 
-BASE_DIR = Path.cwd() / "data_daxuli"  # Adjust if your data is in a different location
-SPLITS = ["train", "test", "validation"]
+BASE_DIR = Path.cwd() / "data_daxuli"
+SPLITS = ["train", "test", "validation", "test_new"]
 
 for split in SPLITS:
     manifest_path = BASE_DIR / split / "manifest.json"
@@ -18,26 +17,45 @@ for split in SPLITS:
         data = json.load(f)
     
     rows = []
-    for sample in data:
-        group = sample["sample"]  # e.g. "test_001"
-        for img in sample["images"]:
-            # Build absolute path
-            img_rel = img["image"]  # e.g. "test/test_001/1.jpg"
+
+    # TRƯỜNG HỢP 1: Cấu trúc của test_new (Dictionary)
+    if isinstance(data, dict):
+        for img_name, text in data.items():
+            # Giả định đường dẫn ảnh nằm trong thư mục của split đó
+            # e.g. "data_daxuli/test_new/1.jpg"
+            img_rel = Path(split) / img_name
             img_abs = BASE_DIR / img_rel
-            text = img["text"]
-            exists = img_abs.exists()
+            
             rows.append({
                 "image_path": str(img_abs),
                 "text": text,
-                "exists": exists,
-                "group": group,
+                "exists": img_abs.exists(),
+                "group": "", # test_new không có 'sample' group rõ ràng nên đặt mặc định
             })
+
+    # TRƯỜNG HỢP 2: Cấu trúc của train, test, validation (List)
+    elif isinstance(data, list):
+        for sample in data:
+            group = sample.get("sample", "unknown")
+            for img in sample.get("images", []):
+                img_rel = img["image"]
+                img_abs = BASE_DIR / img_rel
+                
+                rows.append({
+                    "image_path": str(img_abs),
+                    "text": img["text"],
+                    "exists": img_abs.exists(),
+                    "group": group,
+                })
     
-    with open(output_csv, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["image_path", "text", "exists", "group"])
-        writer.writeheader()
-        writer.writerows(rows)
-    
-    print(f"[OK] {output_csv}  ({len(rows)} rows)")
+    # Ghi file CSV
+    if rows:
+        with open(output_csv, "w", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=["image_path", "text", "exists", "group"])
+            writer.writeheader()
+            writer.writerows(rows)
+        print(f"[OK] {output_csv} ({len(rows)} rows)")
+    else:
+        print(f"[WARN] No data found for {split}")
 
 print("Done.")

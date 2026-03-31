@@ -1,4 +1,0 @@
-2026-03-30 04:47:48,408 - INFO - Batch 0 | Data: 0.018s | Step: 0.118s | Loss: 38.1131
-2026-03-30 04:48:02,117 - INFO - Batch 50 | Data: 0.010s | Step: 0.112s | Loss: 3.6522
-2026-03-30 04:48:15,865 - INFO - Batch 100 | Data: 0.013s | Step: 0.112s | Loss: 3.2881
-2026-03-30 04:48:29,699 - INFO - Batch 150 | Data: 0.011s | Step: 0.112s | Loss: 3.3133
