@@ -1,0 +1,27 @@
+Collecting arabic-reshaper
+  Downloading arabic_reshaper-3.0.0-py3-none-any.whl.metadata (12 kB)
+Collecting python-bidi
+  Downloading python_bidi-0.6.7-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (4.9 kB)
+Requirement already satisfied: opencv-python in ./.venv/lib/python3.12/site-packages (4.13.0.92)
+Requirement already satisfied: pillow in ./.venv/lib/python3.12/site-packages (12.1.1)
+Requirement already satisfied: numpy in ./.venv/lib/python3.12/site-packages (2.4.3)
+Requirement already satisfied: tqdm in ./.venv/lib/python3.12/site-packages (4.67.3)
+Collecting diffimg
+  Downloading diffimg-0.3.0.tar.gz (4.3 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Downloading arabic_reshaper-3.0.0-py3-none-any.whl (20 kB)
+Downloading python_bidi-0.6.7-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (300 kB)
+Building wheels for collected packages: diffimg
+  Building wheel for diffimg (pyproject.toml): started
+  Building wheel for diffimg (pyproject.toml): finished with status 'done'
+  Created wheel for diffimg: filename=diffimg-0.3.0-py3-none-any.whl size=4219 sha256=aef1930cd43fcdafc03e063a92ce82f2c31e55fd9e6fbde6ce6c57c5bc304aad
+  Stored in directory: /home/captain-cccp/.cache/pip/wheels/07/da/68/6c98671295b132744758c218cb6b1a79655486428335d6743e
+Successfully built diffimg
+Installing collected packages: python-bidi, arabic-reshaper, diffimg
+[?25l[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3/3[0m [diffimg]
+[?25h[1A[2KSuccessfully installed arabic-reshaper-3.0.0 diffimg-0.3.0 python-bidi-0.6.7
