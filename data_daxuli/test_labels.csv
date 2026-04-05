@@ -1054,3 +1054,280 @@ image_path,text,exists,group
 /home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/test_038/42.jpg,"câu hỏi đó tự đến với họ hoặc đến từ người thân, bạn bè đi kèm sự chua",True,test_038
 /home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/test_038/43.jpg,"chát, ngậm ngùi.",True,test_038
 /home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/test_038/44.jpg,"Và hôm nay, chúng ta cũng cần hỏi câu hỏi này với chính mình.",True,test_038
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0123_samples.png,"382/12/24 Tân Kỳ Tân Quý, Phường Sơn Kỳ, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0453_samples.png,"157 Lâm Văn Bền, Phường Bình Thuận, Quận 7, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0105_samples.png,"Thôn Hà Bắc, Xã Ea Wer, Huyện Buôn Đôn, Đắc Lắc",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1277_samples.png,"1 Ngô Quyền, Thành phố Đà Lạt, Lâm Đồng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1434_samples.png,"1025/14A Cách Mạng Tháng 8, Phường 7, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0130_samples.png,"61/21 Lý Tự Trọng, Quận Ninh Kiều, Cần Thơ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/15.jpg,"168 Ngô Gia Tự, thành phố Hà Tĩnh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1791_samples.png,"Số 254, Quốc Bảo, Thị trấn Văn Điển, Huyện Thanh Trì, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1190_samples.png,"Số 137 đường Phan Chu Trinh, Phường Đội Cung, Thành phố Vinh, Nghệ An",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0456_samples.png,"Xã Giao Tân, Huyện Giao Thuỷ, Nam Định",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1119_samples.png,"Khu công nghiệp Sông Đốc, Xã Phong Điền, Huyện Trần Văn Thời, Cà Mau",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1189_samples.png,"Số 29 Đường 320 Bông Sao, Phường 5, Quận 8, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0028_samples.png,"Số 41, đường Tô Hiệu, TP. Sơn La, Sơn La",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0677_samples.png,"Xóm 7, Xã ứng Hoè, Huyện Ninh Giang, Hải Dương",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0116_samples.png,"61 Đường số 3, Cư xá Đô Thành, Phường 04, Quận 3, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0445_samples.png,"Tổ dân phố 6, Phường Him Lam, TP Điện Biên Phủ, Điện Biên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0492_samples.png,"39B Trường Sơn P.04, Phường 4, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0232_samples.png,"145 Nguyễn Đình Chính, Phường 11, Quận Phú Nhuận, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0909_samples.png,"TK 07 Tông Lạnh, Xã Tông Lạnh, Huyện Thuận Châu, Sơn La",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1044_samples.png,"Làng Tờ Pôn 1, Xã Yang Nam, Huyện Kông Chro, Gia Lai",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0882_samples.png,"Thôn 4, Xã Minh Hóa, Huyện Minh Hoá, Quảng Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0749_samples.png,"150 Phố Vọng, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1795_samples.png,"Nhà A3 - X3 Tổ 20, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1360_samples.png,"Số 541A, Khóm 1, Thị trấn Lai Vung, Huyện Lai Vung, Đồng Tháp",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1671_samples.png,"Thửa đất 3a, Khu Bala, Phường Phú La, Quận Hà Đông, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0623_samples.png,"235 Nguyễn Văn Cừ, Phường Nguyễn Cư Trinh, Quận 1, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1445_samples.png,"729 âu Cơ, Phường Tân Thành, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0396_samples.png,"Số 6A, phố Trần Quốc Toản, phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1397_samples.png,"Số 10 Nguyễn Khoái, phường 03, Quận 4, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1762_samples.png,"Thôn Phú Thành, Huyện Phú Riềng, Bình Phước",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1531_samples.png,"Thị trấn ân thi, Huyện Ân Thi, Hưng Yên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1611_samples.png,"Lỗ xá, Xã Nhân Hòa, Huyện Mỹ Hào, Hưng Yên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0418_samples.png,"Xã Tân Cương, Xã Tân Cương, Huyện Vĩnh Tường, Vĩnh Phúc",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0851_samples.png,"636, Xa Lộ Hà Nội, Phường Phước Long B, Quận 9, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1227_samples.png,"Thôn Chánh Giáo, Xã Mỹ An, Huyện Phù Mỹ, Bình Định",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1065_samples.png,"Xóm 6, Xã Ngũ Lão, Huyện Thuỷ Nguyên, Hải Phòng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1682_samples.png,"Số 113, Ngõ Quỳnh, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0323_samples.png,"Số 79, tổ 26, KP 4, Phường Trảng Dài, Thành phố Biên Hoà, Đồng Nai",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1110_samples.png,"339 Cửa Đại, Phường Cẩm Châu, Thành Phố Hội An, Quảng Nam",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0958_samples.png,"Tổ 3, ấp Tân Trung, Xã Tà Đảnh, Huyện Tri Tôn, An Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1336_samples.png,"Số 292/3, KP 4, Phường Tân Biên, Thành Phố Biên Hoà, Đồng Nai",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0247_samples.png,"458/10/8D Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0242_samples.png,"ấp Đồng, Xã Phước Tân, Thành phố Biên Hoà, Đồng Nai",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1553_samples.png,"ấp Thới Quan, Xã Trường Thắng, Huyện Thới Lai, Cần Thơ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1075_samples.png,"Số 200A, ấp Hoà An A, Xã Hòa Thuận, Huyện Giồng Riềng, Kiên Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1542_samples.png,"Số 45/114 Vạn Kiếp, Phường Thượng Lý, Quận Hồng Bàng, Hải Phòng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0126_samples.png,"Số 161-163-165 Xuân Hồng, Phường 12, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0980_samples.png,"Số 7A ngõ 690 Lạc Long Quân, Phường Nhật Tân, Quận Tây Hồ, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1483_samples.png,"338/6C Nguyễn Xí, Phường 13, Quận Bình Thạnh, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0160_samples.png,"Phường Thanh Sơn, Phường Thanh Sơn, Thành phố Uông Bí, Quảng Ninh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1757_samples.png,"Đội 1 thôn Đông Thượng, Xã Đông Yên, Huyện Quốc Oai, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1692_samples.png,"Số 44/6 đường Trung Yên 13, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0478_samples.png,"188 Lý Tự Trọng (Tầng 4), Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0103_samples.png,"43/29 Thành Thái, Phường 14, Quận 10, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0475_samples.png,"Tổ 1, Khóm 1, Thị trấn Tri Tôn, Huyện Tri Tôn, An Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0614_samples.png,"Số 91 phố Hàng Chiếu, Phường Đồng Xuân, Quận Hoàn Kiếm, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0728_samples.png,"Thôn Phú Lâm Tây, Xã Hành Thiện, Huyện Nghĩa Hành, Quảng Ngãi",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0214_samples.png,"18 Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0024_samples.png,"122/4B, đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, Cần Thơ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0985_samples.png,"Thôn 5 xã EaHmlay, Huyện M'ĐrắK, Đắc Lắc",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0648_samples.png,"33 Trừ Văn Thố, Phường Hoà Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1211_samples.png,"Khu phố chợ, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/2.jpg,"Số 30 Nguyên Hồng, Láng Hạ, Đống Đa, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1071_samples.png,"Tổ 6, thị trấn Yên Minh, Thị trấn Yên Minh, Huyện Yên Minh, Hà Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1579_samples.png,"26 Nguyễn Văn Yến, Phường Tân Thới Hoà, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1089_samples.png,"K231 Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0315_samples.png,"Thôn An Hạ, Xã An Thượng, Huyện Hoài Đức, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1546_samples.png,"Số nhà 7A, khu 17, Phường Ngọc Châu, Thành phố Hải Dương, Hải Dương",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0750_samples.png,"Đại Bình, Hoà Quang Nam, Huyện Phú Hoà, Phú Yên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1661_samples.png,"ấp 3, Xã Khánh Hội, Huyện U Minh, Cà Mau",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1797_samples.png,"1/34 đường số 1, Phường 10, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1768_samples.png,"Đội 6, thôn Phương Tân, Xã Kim Khê, Huyện Kim Thành, Hải Dương",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1623_samples.png,"Thôn Tân Tiến, Xã Quảng Sơn, Huyện Đắk Glong, Đắk Nông",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1293_samples.png,"54A1 đường 3/2, Phường Xuân Khánh, Quận Ninh Kiều, Cần Thơ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0596_samples.png,"200/22-24 Cô Giang, Phường Cô Giang, Quận 1, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1265_samples.png,"56 Yên Thế, Phường 2, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0202_samples.png,"Cao sơn, Huyện Anh Sơn, Nghệ An",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1024_samples.png,"36/1 ấp Hậu Lân, Xã Bà Điểm, Huyện Hóc Môn, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0350_samples.png,"Số 3C, đường Cư Xá Đồng Tiến, Phường 14, Quận 10, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1545_samples.png,"Thôn Tự Khoát, Xã Ngũ Hiệp, Huyện Thanh Trì, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1010_samples.png,"51/18/116 Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0524_samples.png,"Thôn Duyên Yên, Xã Ngọc Thanh, Huyện Kim Động, Hưng Yên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1458_samples.png,"Số 611 đường Trường Chinh, Phường Quán Trữ, Quận Kiến An, Hải Phòng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1463_samples.png,"ấp Thạnh Hòa, Xã Thạnh Hội, Thị xã Tân Uyên, Bình Dương",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/7.jpg,"40 Cát Linh, Đống Đa, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0914_samples.png,"Số 1/47 Phạm Hữu Điều, Phường Niệm Nghĩa, Quận Lê Chân, Hải Phòng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0308_samples.png,"Hẻm 138 đường Phan Đình Phùng, Phường 2, Thành phố Đà Lạt, Lâm Đồng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0875_samples.png,"478A5 Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0586_samples.png,"Khu phố 1, Phường Ba Đồn, Thị Xã Ba Đồn, Quảng Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1821_samples.png,"Tổ 4, ấp Cây Thông Ngoài, Xã Cửa Dương, Huyện Phú Quốc, Kiên Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1779_samples.png,"Thôn Agrồng, Xã A Tiêng, Huyện Tây Giang, Quảng Nam",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1297_samples.png,"ấp Hải Sơn, xã Phước Hưng, Huyện Long Điền, Bà Rịa - Vũng Tàu",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1559_samples.png,"Phường Ninh Phong, Thành Phố Ninh Bình, Ninh Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1725_samples.png,"232/17 Võ Thị Sáu, Phường 07, Quận 3, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1522_samples.png,"135 đường D1, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1084_samples.png,"Số 875 đường 23/10, Xã Vĩnh Thạnh, Thành Phố Nha Trang, Khánh Hòa",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1381_samples.png,"Số nhà 83, Khối 4, Thị trấn Rừng Thông, Huyện Đông Sơn, Thanh Hoá",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0219_samples.png,"51 Quốc Hương, Phường Thảo Điền, Quận 2, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1461_samples.png,"Tổ 6, Thành phố Yên Bái, Yên Bái",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1657_samples.png,"54 Nguyễn Ngọc Nhựt, Phường Tân Quý, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0008_samples.png,"Dãy II, B1, Trần Phú, Phường Cái Khế, Quận Ninh Kiều, Cần Thơ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1118_samples.png,"Thôn Ngãi Cầu, Xã An Khánh, Huyện Hoài Đức, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0499_samples.png,"917C âu Cơ, Phường Tân Sơn Nhì, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1068_samples.png,"Km 2, đường Văn Cao, Xã Lộc An, Thành phố Nam Định, Nam Định",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0943_samples.png,"Số 54, Bình Kiều 1, Phường Đông Hải 2, Quận Hải An, Hải Phòng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1205_samples.png,"Xã Quảng Hùng, Huyện Quảng Xương, Thanh Hoá",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0766_samples.png,"140A Phạm Nhữ Tăng, Phường Hoà Khê, Quận Thanh Khê, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0773_samples.png,"Số 4, ngõ 155 Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0115_samples.png,"8 Trương Văn Thành, Phường Hiệp Phú, Quận 9, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1206_samples.png,"vĩnh phúc, Huyện Bắc Quang, Hà Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1807_samples.png,"268 Trần Hưng Đạo B, Phường 11, Quận 5, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1378_samples.png,"113 Lê Đình Lý, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1607_samples.png,"299/23L Lý Thường Kiệt, Phường 15, Quận 11, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0312_samples.png,"Số 176 đường Thanh Niên, Phường Hồng Hà, Thành Phố Yên Bái, Yên Bái",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1270_samples.png,"Số 2/7 Nguyễn Huỳnh Đức, Phường 2, Thành Phố Mỹ Tho, Tiền Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0298_samples.png,"Thôn Thọ Lộc 1, Xã Nhơn Thọ, Thị Xã An Nhơn, Bình Định",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0209_samples.png,"Thôn Kim Sơn, Xã Thủy Bằng, Thị xã Hương Thuỷ, Thừa Thiên - Huế",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0081_samples.png,"Bản Tây Tà Lào, Xã Tân Xuân, Huyện Vân Hồ, Sơn La",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1532_samples.png,"Thôn Nứa, Xã Liên Hiệp, Huyện Hưng Hà, Thái Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0171_samples.png,"185/50 Ba Tháng Hai, Phường 11, Quận 10, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0995_samples.png,"Số 14 Lô 5 Xi măng, Quận Hồng Bàng, Hải Phòng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1028_samples.png,"Số 29 /27 đường Kiều Mai, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0268_samples.png,"25/11/11 đường Bùi Quang Là, Phường 12, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1707_samples.png,"Khóm 1, Thị trấn Long Hồ, Huyện Long Hồ, Vĩnh Long",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0726_samples.png,"127 đường số 5, Phường Phước Bình, Quận 9, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0802_samples.png,"Thôn Đồng Tỉnh, Xã Nghĩa Trụ, Huyện Văn Giang, Hưng Yên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1180_samples.png,"Đường Võ Văn Kiệt, Khóm 8, Phường 7, Thành phố Trà Vinh, Trà Vinh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0862_samples.png,"18/55, Kp 9, Phường Hố Nai, Thành phố Biên Hoà, Đồng Nai",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1182_samples.png,"157/1B Bùi Minh Trực, Phường 5, Quận 8, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1514_samples.png,"Số 4 Nguyễn Văn Mại, Phường 4, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0523_samples.png,"Xã Xuân Hoá, Huyện Minh Hoá, Quảng Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1088_samples.png,"Xóm Tràng, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1798_samples.png,"Tầng 3, số 404 Đê La Thành, Phường ô Chợ Dừa, Quận Đống đa, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1510_samples.png,"Số 58 Tăng Thiết Giáp, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0490_samples.png,"Thôn Cao Quán, Xã Hồng Tiến, Huyện Khoái Châu, Hưng Yên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1815_samples.png,"106/35 Cống Lở, Phường 15, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0527_samples.png,"Đội 11, thôn Đông Vũ, Thành Phố Thanh Hoá, Thanh Hoá",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0277_samples.png,"320/2 Cô Giang, Phường 02, Quận Phú Nhuận, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0924_samples.png,"1/20 Nguyễn Văn Dung, Phường 6, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1301_samples.png,"140/39 Nguyễn Lương Bằng, Xã Hòa Thắng, TP.Buôn Ma Thuột, Đắc Lắc",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0795_samples.png,"399 Lê Đức Thọ, Phường 17, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1007_samples.png,"Lý Tự Trọng, Huyện Diên Khánh, Khánh Hòa",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1327_samples.png,"Thôn Phúc Thạnh, Huyện Lâm Hà, Lâm Đồng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0420_samples.png,"TK 3, Thị trấn Hoàn Lão, Huyện Bố Trạch, Quảng Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0629_samples.png,"315 Nam Kỳ Khởi Nghĩa, Phường 07, Quận 3, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1455_samples.png,"Tảo Dương Văn, Huyện Ứng Hoà, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1146_samples.png,"Thôn Công Hà, Xã Hà Mãn, Huyện Thuận Thành, Bắc Ninh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0417_samples.png,"Tổ 2, Phường Định Công, Quận Hoàng Mai, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0120_samples.png,"Tổ 19, ấp Trầu, Xã Phước Thiền, Huyện Nhơn Trạch, Đồng Nai",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0533_samples.png,"106 Đinh Thị Vân, Phường An Khê, Quận Thanh Khê, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0806_samples.png,"3 Tăng Bạt Hổ, Phường 12, Quận 5, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0631_samples.png,"511/15 Trường Chinh, Phường 14, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1633_samples.png,"Số 64 Hạ Long, Phường 2, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1806_samples.png,"860/26/10 Huỳnh Tấn Phát, Phường Tân Phú, Quận 7, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1668_samples.png,"tổ dân phố Mỹ Trạch, Phường Ninh Hà, Thị xã Ninh Hoà, Khánh Hòa",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0454_samples.png,"496/22/9A Dương Quảng Hàm, Phường 6, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0099_samples.png,"Số 65, phố Viên, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1574_samples.png,"ấp 3 xã Bình Hòa Nam, Huyện Đức Huệ, Long An",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1558_samples.png,"Xóm 2, Xã Đồng Tâm, Huyện Mỹ Đức, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0649_samples.png,"Khu 16, Thị trấn Thịnh Long, Huyện Hải Hậu, Nam Định",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1387_samples.png,"Phòng 2 nhà D TT nhà máy Thăng long, Quận Thanh Xuân, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0434_samples.png,"Tổ 3 thôn Sáp Mai, Xã Võng La, Huyện Đông Anh, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1125_samples.png,"Xã Hồng phong, Huyện Vũ Thư, Thái Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1394_samples.png,"Xóm trung tâm, xã Khánh Lợi, Huyện Yên Khánh, Ninh Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1295_samples.png,"Thôn 8, Xã Hưng Khánh, Huyện Trấn Yên, Yên Bái",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0537_samples.png,"Số 438, đường Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0762_samples.png,"Số 40/32 Nguyễn Tất Thành, Phường Tự An, TP.Buôn Ma Thuột, Đắc Lắc",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0931_samples.png,"216 Vành Đai Phi Trường, Phường An Thới, Quận Bình Thuỷ, Cần Thơ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0319_samples.png,"Thôn Nam Cương, Xã Hiền Ninh, Huyện Sóc Sơn, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1817_samples.png,"QL 19 thôn Hòa Sơn, Xã Bình Tường, Huyện Tây Sơn, Bình Định",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1478_samples.png,"ấp Phước Sơn, Xã Phước Hoà, Huyện Tân Thành, Bà Rịa - Vũng Tàu",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1078_samples.png,"Số 10, ngách 406/66 âu Cơ, Phường Nhật Tân, Quận Tây Hồ, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0335_samples.png,"Số 37, Tổ 2, Phường Minh Khai, Thành phố Phủ Lý, Hà Nam",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1285_samples.png,"852 Cách Mạng Tháng Tám, Phường 5, Quận Tân Bình, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1232_samples.png,"A44 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0131_samples.png,"Số 79, ngõ 3 Phan Phù Tiên, Phường Cát Linh, Quận Đống Đa, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1312_samples.png,"Số 48A Lý Chiến Thắng, Phường Tân An, TP.Buôn Ma Thuột, Đắc Lắc",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1384_samples.png,"418 Tôn Đức Thắng, Phường Hoà Minh, Quận Liên Chiểu, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1422_samples.png,"Phố Vàng xã Nghĩa Đạo, Huyện Thuận Thành, Bắc Ninh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0531_samples.png,"Thôn Tử Dương, Xã Cao Thành, Huyện Ứng Hoà, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1357_samples.png,"31B Trưng Nhị, Phường Đức Nghĩa, Thành phố Phan Thiết, Bình Thuận",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0414_samples.png,"Xã Yên Thịnh, Huyện Chợ Đồn, Bắc Cạn",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0712_samples.png,"48/38 Nguyễn Háo Vĩnh, Phường Tân Quý, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0743_samples.png,"149 Trần Phú, Phường Phước Vĩnh, Thành phố Huế, Thừa Thiên - Huế",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0318_samples.png,"34 Nguyễn Mỹ Ca, Phường Hiệp Tân, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0732_samples.png,"39 Đường số 9, Phường 11, Quận 6, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1693_samples.png,"Số 14 phố Nguyễn Phong Sắc, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1286_samples.png,"Thôn Nguyễn, Xã Thanh Hương, Huyện Thanh Liêm, Hà Nam",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0913_samples.png,"103 Lê Văn Thọ, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1778_samples.png,"Khu 18, Xã Phú Hộ, Thị xã Phú Thọ, Phú Thọ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1771_samples.png,"Đội 385 Nông trường Sao Vàng, Huyện Thọ Xuân, Thanh Hoá",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0191_samples.png,"Số 5 ngõ 196 phố Thái Thịnh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1802_samples.png,"Thị trấn xuân Trường, Huyện Xuân Trường, Nam Định",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1736_samples.png,"108/50 Trần Quang Diệu, Phường 14, Quận 3, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0148_samples.png,"Số 165 Tô Hiệu, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0577_samples.png,"Thôn Cư Thạnh, Xã Suối Hiệp, Huyện Diên Khánh, Khánh Hòa",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1568_samples.png,"260/65 Phan Anh, Phường Hiệp Tân, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0451_samples.png,"84/31 Nguyễn Biểu, Phường 01, Quận 5, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1339_samples.png,"Tổ 3, thôn Ngọc Hội, Xã Vĩnh Ngọc, Thành Phố Nha Trang, Khánh Hòa",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0078_samples.png,"Số 56, Phố Lưu Hữu Phước, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0127_samples.png,"ấp Tân Phú, xã Phú Thạnh, Huyện Tân Phú Đông, Tiền Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1427_samples.png,"73 Đường Số 9, Khu phố 8, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0378_samples.png,"Đường Vành Đai 2, Phường 4, Thành phố Cà Mau, Cà Mau",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1167_samples.png,"05 Trần Anh Tông, Phường Trường An, Thành phố Huế, Thừa Thiên - Huế",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0725_samples.png,"Số nhà 065A, Phường Đức Xuân, Thị Xã Bắc Cạn, Bắc Cạn",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1749_samples.png,"367/16 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1251_samples.png,"TDP Hưng Hòa, Phường Sông Trí, Thị xã Kỳ Anh, Hà Tĩnh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1272_samples.png,"290/30/36 Nơ Trang Long, Phường 12, Quận Bình Thạnh, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1683_samples.png,"49, đường 3/2, KV2, Phường V, Tp Vị Thanh, Hậu Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0585_samples.png,"114/9 Đề Thám, Phường Cầu Ông Lãnh, Quận 1, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1115_samples.png,"15 Cây Keo, Phường Hiệp Tân, Quận Tân phú, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0146_samples.png,"Chiềng Bôn, Huyện Thuận Châu, Sơn La",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0760_samples.png,"23/34 đường 16, Phường 4, Quận 8, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0240_samples.png,"ấp 4, Xã Tiến Thành, Thị Xã Đồng Xoài, Bình Phước",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1083_samples.png,"291 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0925_samples.png,"Số 88, đường Xuân Diệu, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1479_samples.png,"036 Lô 9 Cư Xá Thanh Đa, Phường 27, Quận Bình Thạnh, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0073_samples.png,"Số 84, ngõ 10, phố 8-3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1637_samples.png,"169 đường Trung Trắc, Phường Trưng Trắc, Thị Xã Phúc Yên, Vĩnh Phúc",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0526_samples.png,"Số 276 Ngô Quyền, Khu phố 3, Phường Tân An, Thị xã La Gi, Bình Thuận",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1221_samples.png,"375 Thuỵ Khuê, phường Bưởi, Quận Tây Hồ, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0689_samples.png,"Tổ 3, Thị trấn Hà Lam, Huyện Thăng Bình, Quảng Nam",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1720_samples.png,"14 Đường Số 1, Phường An Phú, Quận 2, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0720_samples.png,"Cốc Pài, Thị trấn Cốc Pài, Huyện Xín Mần, Hà Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0183_samples.png,"Thôn 7 (A Dai), xã Hương Long, Huyện Nam Đông, Thừa Thiên - Huế",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0763_samples.png,"462-464 An Dương Vương, Phường 04, Quận 5, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0174_samples.png,"238 Lê Lợi, Phường Chánh Lộ, Thành Phố Quảng Ngãi, Quảng Ngãi",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1813_samples.png,"Số 52, phố Trúc Khê, Phường Láng Hạ, Quận Đống đa, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0674_samples.png,"Số 5, Phan Như Thạch, Phường 1, Thành phố Đà Lạt, Lâm Đồng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1548_samples.png,"235/13, ấp Qui Lân 5, Xã Thạnh Qưới, Huyện Vĩnh Thạnh, Cần Thơ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0425_samples.png,"Số 1 Nguyễn Khoa Vy, Phường Vỹ Dạ, Thành phố Huế, Thừa Thiên - Huế",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0303_samples.png,"Thôn Tân Hiệp 2, Xã Bù Nho, Huyện Phú Riềng, Bình Phước",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1788_samples.png,"Số 88, ấp 9, Xã Vĩnh Hòa Hưng Bắc, Huyện Gò Quao, Kiên Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0681_samples.png,"Số thửa 16, ấp Vĩnh Hòa, Xã An Vĩnh Ngãi, Thành phố Tân An, Long An",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0850_samples.png,"KP 1, Phường Phước Bình, Thị Xã Phước Long, Bình Phước",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1414_samples.png,"Quang Sơn, Huyện Đồng Hỷ, Thái Nguyên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0311_samples.png,"Tổ 2B, Phố Phú Hà, Phường Phong Châu, Thị Xã Phú Thọ, Phú Thọ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1635_samples.png,"D16/41 ấp 04, Xã Hưng Long, Huyện Bình Chánh, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1539_samples.png,"Thôn Chợ Hội, Xã Minh Trí, Huyện Sóc Sơn, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/14.jpg,"96/7/12B Phạm Văn Đồng, thành phố Pleiku",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1765_samples.png,"Số 851 Tôn Đức Thắng, Phường Sở Dầu, Quận Hồng Bàng, Hải Phòng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1642_samples.png,"A2- 14NC Khu đô thị Bàu Bàng, Xã Lai Uyên, Huyện Bàu Bàng, Bình Dương",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0554_samples.png,"265 Nguyễn Tất Thành, Phường 8, TP Tuy Hoà, Phú Yên",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1191_samples.png,"17/6A Phan Huy ích, Phường 14, Quận Gò Vấp, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0904_samples.png,"17 Hùng Vương, Thành phố Tam Kỳ, Quảng Nam",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0436_samples.png,"126/1I, tổ 8, ấp Tân Cang, Xã Phước Tân, Thành Phố Biên Hoà, Đồng Nai",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0844_samples.png,"Thôn Phúc Lộc, Xã Châu Phong, Huyện Quế Võ, Bắc Ninh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1810_samples.png,"Khối 10-Thị trấn Thạch Hà, Huyện Thạch Hà, Hà Tĩnh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1421_samples.png,"45/103 Trần Huy Liệu, Phường 12, Quận Phú Nhuận, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1315_samples.png,"150B Nguyễn Văn Cừ, Thành phố Bảo Lộc, Lâm Đồng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1451_samples.png,"37 Nguyễn Văn Đậu P.06, Phường 6, Quận Bình Thạnh, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0392_samples.png,"Số 299, tổ 49, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1134_samples.png,"299 - đường Trần Đăng Ninh, Thành Phố Lạng Sơn, Lạng Sơn",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0039_samples.png,"Số 59 Đại Cồ Việt, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1217_samples.png,"Khóm 6, Thị Trấn Sông Đốc, Huyện Trần Văn Thời, Cà Mau",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1019_samples.png,"40 Bà Huyện Thanh Quan, Quận 3, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0461_samples.png,"Tổ dân phố Đông Ba, Phường Thượng Cát, Quận Bắc Từ Liêm, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0432_samples.png,"TT Kiến Giang, Huyện Lệ Thuỷ, Quảng Bình",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0176_samples.png,"Thôn 2, Xã Long Hiệp, Huyện Minh Long, Quảng Ngãi",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0046_samples.png,"xóm Lê Lợi, Xã Văn Khúc, Huyện Cẩm Khê, Phú Thọ",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0050_samples.png,"Phố Lê Lương, Thị trấn Đầm Hà, Huyện Đầm Hà, Quảng Ninh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0849_samples.png,"Thôn 9, Long Hà, Huyện Phú Riềng, Bình Phước",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1194_samples.png,"387 Đào Trí, Phường Phú Thuận, Quận 7, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0163_samples.png,"33 Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1101_samples.png,"Tổ 6 khu I, thị trấn Cát Bà, Huyện Cát Hải, Hải Phòng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1501_samples.png,"Tổ 69, thôn Tam Long, Xã Kim Long, Huyện Châu Đức, Bà Rịa - Vũng Tàu",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1370_samples.png,"62B(Tầng 02) Phạm Ngọc Thạch, Phường 06, Quận 3, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0194_samples.png,"1089 Tạ Quang Bửu, Phường 6, Quận 8, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1493_samples.png,"296 Tăng Bạt Hổ, Phường Phú Bình, Thành phố Huế, Thừa Thiên - Huế",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0270_samples.png,"17A1 Nguyễn Ngọc Phương, Phường 19, Quận Bình Thạnh, TP Hồ Chí Minh",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0442_samples.png,"Số 592/TT, ấp Tân Thành, Xã Hòa Thành, Huyện Lai Vung, Đồng Tháp",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0486_samples.png,"62 Phạm Hồng Thái, Thành phố Long Xuyên, An Giang",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0548_samples.png,"93 Nguyễn Bảo, Xã Hoà Châu, Huyện Hoà Vang, Đà Nẵng",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1503_samples.png,"ấp 4, Xã Thạnh Lợi, Huyện Bến Lức, Long An",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0036_samples.png,"Số 21 Lê Văn Lương, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/0213_samples.png,"Xóm Đầm, xã Minh Khai,, Xã Minh Khai, Huyện Hoài Đức, Hà Nội",True,from_test_new_902
+/home/captain-cccp/Documents/NGA/ocr_tieng_viet/data_daxuli/test/1294_samples.png,"517 kha Vạn Cân, Phường Linh Đông, Quận Thủ Đức, TP Hồ Chí Minh",True,from_test_new_902

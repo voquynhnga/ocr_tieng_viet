@@ -3,7 +3,7 @@ import csv
 from pathlib import Path
 
 BASE_DIR = Path.cwd() / "data_daxuli"
-SPLITS = ["train", "test", "validation", "test_new"]
+SPLITS = ["train", "test", "validation"] # test_new thường sẽ trống sau khi chia nên có thể bỏ qua
 
 for split in SPLITS:
     manifest_path = BASE_DIR / split / "manifest.json"
@@ -18,35 +18,26 @@ for split in SPLITS:
     
     rows = []
 
-    # TRƯỜNG HỢP 1: Cấu trúc của test_new (Dictionary)
-    if isinstance(data, dict):
-        for img_name, text in data.items():
-            # Giả định đường dẫn ảnh nằm trong thư mục của split đó
-            # e.g. "data_daxuli/test_new/1.jpg"
-            img_rel = Path(split) / img_name
-            img_abs = BASE_DIR / img_rel
-            
-            rows.append({
-                "image_path": str(img_abs),
-                "text": text,
-                "exists": img_abs.exists(),
-                "group": "", # test_new không có 'sample' group rõ ràng nên đặt mặc định
-            })
-
-    # TRƯỜNG HỢP 2: Cấu trúc của train, test, validation (List)
-    elif isinstance(data, list):
+    # Xử lý cấu trúc List (cho cả dữ liệu cũ và dữ liệu mới từ test_new)
+    if isinstance(data, list):
         for sample in data:
-            group = sample.get("sample", "unknown")
-            for img in sample.get("images", []):
-                img_rel = img["image"]
-                img_abs = BASE_DIR / img_rel
+            # Lấy tên group (có thể là 'test_038' hoặc 'from_test_new_902')
+            group_name = sample.get("sample", "unknown")
+            
+            for img_entry in sample.get("images", []):
+                # 'image' trong JSON thường là "test/test_038/44.jpg" hoặc "test/0123.png"
+                img_rel_path = img_entry.get("image")
                 
-                rows.append({
-                    "image_path": str(img_abs),
-                    "text": img["text"],
-                    "exists": img_abs.exists(),
-                    "group": group,
-                })
+                if img_rel_path:
+                    # Đường dẫn tuyệt đối dựa trên BASE_DIR (data_daxuli)
+                    img_abs = BASE_DIR / img_rel_path
+                    
+                    rows.append({
+                        "image_path": str(img_abs),
+                        "text": img_entry.get("text", ""),
+                        "exists": img_abs.exists(),
+                        "group": group_name,
+                    })
     
     # Ghi file CSV
     if rows:
@@ -54,8 +45,8 @@ for split in SPLITS:
             writer = csv.DictWriter(f, fieldnames=["image_path", "text", "exists", "group"])
             writer.writeheader()
             writer.writerows(rows)
-        print(f"[OK] {output_csv} ({len(rows)} rows)")
+        print(f"[OK] {output_csv} ({len(rows)} hàng)")
     else:
-        print(f"[WARN] No data found for {split}")
+        print(f"[WARN] Không có dữ liệu hợp lệ trong {split}")
 
-print("Done.")
+print("Hoàn thành tạo file CSV.")

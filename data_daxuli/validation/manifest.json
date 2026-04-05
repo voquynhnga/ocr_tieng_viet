@@ -13255,5 +13255,1935 @@
         "sha1": "997c2410b24fd8130cdfaf5408a43969c447c996"
       }
     ]
+  },
+  {
+    "sample": "from_test_new_866",
+    "images": [
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1361_samples.png",
+        "image": "validation/1361_samples.png",
+        "text": "62 Pasteur, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0506_samples.png",
+        "image": "validation/0506_samples.png",
+        "text": "Số nhà 169, tổ 25, Phường Khương Trung, Quận Thanh Xuân, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1505_samples.png",
+        "image": "validation/1505_samples.png",
+        "text": "TK 44/33 Võ Văn Kiệt, Phường Cầu Kho, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1664_samples.png",
+        "image": "validation/1664_samples.png",
+        "text": "95/34, Nguyễn Thông, Phường An Thới, Quận Bình Thuỷ, Cần Thơ"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1653_samples.png",
+        "image": "validation/1653_samples.png",
+        "text": "ấp Phú Lợi A, Xã Phú Thuận B, Huyện Hồng Ngự, Đồng Tháp"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1290_samples.png",
+        "image": "validation/1290_samples.png",
+        "text": "165/22 Vườn Lài, Phường Phú Thọ Hoà, Quận Tân phú, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1032_samples.png",
+        "image": "validation/1032_samples.png",
+        "text": "Số 15 Trần Hưng Đạo, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1226_samples.png",
+        "image": "validation/1226_samples.png",
+        "text": "745 Cách Mạng Tháng Tám, Phường 6, Quận Tân Bình, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0878_samples.png",
+        "image": "validation/0878_samples.png",
+        "text": "Số 2/19, Khu phố Bình Hòa, Phường Lái Thiêu, TX Thuận An, Bình Dương"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1628_samples.png",
+        "image": "validation/1628_samples.png",
+        "text": "190B Trần Quang Khải, Phường Tân Định, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0692_samples.png",
+        "image": "validation/0692_samples.png",
+        "text": "502/7C Hưng Phú, Phường 9, Quận 8, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0874_samples.png",
+        "image": "validation/0874_samples.png",
+        "text": "Số 48, ấp 3, Xã Phú Lập, Huyện Tân Phú, Đồng Nai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1655_samples.png",
+        "image": "validation/1655_samples.png",
+        "text": "158 Đoàn Văn Bơ, phường 09, Quận 4, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0207_samples.png",
+        "image": "validation/0207_samples.png",
+        "text": "ấp 2, Xã Thiện Hưng, Huyện Bù Đốp, Bình Phước"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0063_samples.png",
+        "image": "validation/0063_samples.png",
+        "text": "93/9 Lũy Bán Bích, Phường Tân Thới Hoà, Quận Tân phú, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1403_samples.png",
+        "image": "validation/1403_samples.png",
+        "text": "Xã Mường Mươn, Xã Mường Mơn, Huyện Mường Chà, Điện Biên"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1174_samples.png",
+        "image": "validation/1174_samples.png",
+        "text": "197 Đường D1, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1624_samples.png",
+        "image": "validation/1624_samples.png",
+        "text": "Số 27 ngõ 1 Đường Hà Huy Tập, Huyện Gia Lâm, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1426_samples.png",
+        "image": "validation/1426_samples.png",
+        "text": "Thôn Ninh Xá, Xã Ninh Sở, Huyện Thường Tín, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1787_samples.png",
+        "image": "validation/1787_samples.png",
+        "text": "Xã: Nậm Lành, Xã Nậm Lành, Huyện Văn Chấn, Yên Bái"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0041_samples.png",
+        "image": "validation/0041_samples.png",
+        "text": "Xóm 4, thôn Giang Cao, Xã Bát Tràng, Huyện Gia Lâm, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0663_samples.png",
+        "image": "validation/0663_samples.png",
+        "text": "Xóm 6, Xã Mỹ Đồng, Huyện Thuỷ Nguyên, Hải Phòng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1504_samples.png",
+        "image": "validation/1504_samples.png",
+        "text": "Số 37 Đường 275, Phường Hiệp Phú, Quận 9, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0803_samples.png",
+        "image": "validation/0803_samples.png",
+        "text": "Thôn Phú Long 3, Xã Bình Phước, Huyện Bình Sơn, Quảng Ngãi"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1667_samples.png",
+        "image": "validation/1667_samples.png",
+        "text": "Số 57 Đường 3643A Phạm Thế Hiển, Phường 7, Quận 8, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0704_samples.png",
+        "image": "validation/0704_samples.png",
+        "text": "Khu phố Trịnh Xá, Phường Châu Khê, Thị Xã Từ Sơn, Bắc Ninh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0556_samples.png",
+        "image": "validation/0556_samples.png",
+        "text": "Tổ 30D, khu 2B, Phường Cao Xanh, Thành phố Hạ Long, Quảng Ninh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1746_samples.png",
+        "image": "validation/1746_samples.png",
+        "text": "Số 1821, ấp Quảng Hòa, Xã Quảng Tiến, Huyện Trảng Bom, Đồng Nai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1499_samples.png",
+        "image": "validation/1499_samples.png",
+        "text": "32/B8 Điện Biên Phủ, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0657_samples.png",
+        "image": "validation/0657_samples.png",
+        "text": "Xóm 3, Thôn Cầu, Xã Minh Đức, Huyện ứng Hoà, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0801_samples.png",
+        "image": "validation/0801_samples.png",
+        "text": "Số 696/13, Khu phố Tân Phước, Phường Tân Bình, TX Dĩ An, Bình Dương"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0380_samples.png",
+        "image": "validation/0380_samples.png",
+        "text": "Thôn Vân Sau, Xã Vân Hội, Huyện Tam Dương, Vĩnh Phúc"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0033_samples.png",
+        "image": "validation/0033_samples.png",
+        "text": "209/11 Bến Vân Đồn, Tổ 2, phường 05, Quận 4, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0441_samples.png",
+        "image": "validation/0441_samples.png",
+        "text": "Thôn 4, Huyện Bảo Lâm, Lâm Đồng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1743_samples.png",
+        "image": "validation/1743_samples.png",
+        "text": "Thôn Bản Khoai, Huyện Lộc Bình, Lạng Sơn"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0610_samples.png",
+        "image": "validation/0610_samples.png",
+        "text": "Thôn Vĩnh Hưng, Huyện Tuy Phong, Bình Thuận"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0701_samples.png",
+        "image": "validation/0701_samples.png",
+        "text": "TDP 6, Huyện Điện Biên, Điện Biên"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0927_samples.png",
+        "image": "validation/0927_samples.png",
+        "text": "Khu Phố 4, thị trấn Phước Dân, Huyện Ninh Phước, Ninh Thuận"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0393_samples.png",
+        "image": "validation/0393_samples.png",
+        "text": "146 Cao Bá Quát, Phường Yên Đỗ, Thành phố Pleiku, Gia Lai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0440_samples.png",
+        "image": "validation/0440_samples.png",
+        "text": "161D/68 đường Lạc Long Quân, Phường 3, Quận 11, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0948_samples.png",
+        "image": "validation/0948_samples.png",
+        "text": "440/59/24 Thống Nhất, Phường 16, Quận Gò Vấp, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0064_samples.png",
+        "image": "validation/0064_samples.png",
+        "text": "Số 900, ấp Phước Lợi, Xã Mong Thọ B, Huyện Châu Thành, Kiên Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0768_samples.png",
+        "image": "validation/0768_samples.png",
+        "text": "136 Nguyễn Văn Công, Phường 3, Quận Gò Vấp, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0206_samples.png",
+        "image": "validation/0206_samples.png",
+        "text": "12 Lý Đạo Thành, Phường Tràng Tiền, Quận Hoàn Kiếm, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1782_samples.png",
+        "image": "validation/1782_samples.png",
+        "text": "Xã Tân Lập,, Xã Tân Lập, Huyện Đan Phượng, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1639_samples.png",
+        "image": "validation/1639_samples.png",
+        "text": "P.203B #2 12 Mạc Đĩnh Chi, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0493_samples.png",
+        "image": "validation/0493_samples.png",
+        "text": "458/10/11 Huỳnh Tấn Phát, Phường Bình Thuận, Quận 7, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0828_samples.png",
+        "image": "validation/0828_samples.png",
+        "text": "Số 61A, Thị trấn Yên Mỹ, Huyện Yên Mỹ, Hưng Yên"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0665_samples.png",
+        "image": "validation/0665_samples.png",
+        "text": "Số 49, xóm 3 Đông Ngạc, Phường Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0352_samples.png",
+        "image": "validation/0352_samples.png",
+        "text": "10 Cẩm Bắc 1, Phường Hoà Thọ Đông, Quận Cẩm Lệ, Đà Nẵng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0035_samples.png",
+        "image": "validation/0035_samples.png",
+        "text": "49 Nguyễn Thị Huỳnh, Quận Phú Nhuận, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0829_samples.png",
+        "image": "validation/0829_samples.png",
+        "text": "Số 1/54 Đình Đông, Phường Đông Hải, Quận Lê Chân, Hải Phòng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0347_samples.png",
+        "image": "validation/0347_samples.png",
+        "text": "Cụm Công nghiệp Đồng Lạng, Xã Phù Ninh, Huyện Phù Ninh, Phú Thọ"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0317_samples.png",
+        "image": "validation/0317_samples.png",
+        "text": "Thôn An Ngãi, Xã Nhơn Hưng, Thị Xã An Nhơn, Bình Định"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1487_samples.png",
+        "image": "validation/1487_samples.png",
+        "text": "Số 234, Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0301_samples.png",
+        "image": "validation/0301_samples.png",
+        "text": "Cẩm Lạc, Huyện Cẩm Xuyên, Hà Tĩnh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1256_samples.png",
+        "image": "validation/1256_samples.png",
+        "text": "Số 21/11, khu phố Thống Nhất 1, Phường Dĩ An, Tx Dĩ An, Bình Dương"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1485_samples.png",
+        "image": "validation/1485_samples.png",
+        "text": "56/11 Đường 25A, Phường Tân Quy, Quận 7, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1131_samples.png",
+        "image": "validation/1131_samples.png",
+        "text": "Quốc lộ 38 - thôn Chuông, Xã Duy Minh, Huyện Duy Tiên, Hà Nam"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0709_samples.png",
+        "image": "validation/0709_samples.png",
+        "text": "235 Đồng Khởi, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0195_samples.png",
+        "image": "validation/0195_samples.png",
+        "text": "Thôn Kdăm 1, Xã Ia KDăm, Huyện IaPa, Gia Lai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1497_samples.png",
+        "image": "validation/1497_samples.png",
+        "text": "Thị trấn Thanh Nê, Huyện Kiến Xương, Thái Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0415_samples.png",
+        "image": "validation/0415_samples.png",
+        "text": "417 âu Cơ, Phường Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0717_samples.png",
+        "image": "validation/0717_samples.png",
+        "text": "ấp 3, Thị Trấn Ngã Năm, Thị Xã Ngã Năm, Sóc Trăng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1435_samples.png",
+        "image": "validation/1435_samples.png",
+        "text": "138B Gò Dầu, Phường Tân Quý, Quận Tân phú, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0731_samples.png",
+        "image": "validation/0731_samples.png",
+        "text": "Tổ 49, khu 11, Phường Thanh Miếu, Thành Phố Việt Trì, Phú Thọ"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0616_samples.png",
+        "image": "validation/0616_samples.png",
+        "text": "286 Trần Hưng đạo, TT Bồng Sơn, Huyện Hoài Nhơn, Bình Định"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0070_samples.png",
+        "image": "validation/0070_samples.png",
+        "text": "309 Bùi Hữu Nghĩa P.01, Phường 1, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0246_samples.png",
+        "image": "validation/0246_samples.png",
+        "text": "Số 632 Tổ 4, Thạnh Trung, Thạnh Tây, Huyện Tân Biên, Tây Ninh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0865_samples.png",
+        "image": "validation/0865_samples.png",
+        "text": "686/20 Cách Mạng Tháng Tám, Phường 5, Quận Tân Bình, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0288_samples.png",
+        "image": "validation/0288_samples.png",
+        "text": "Tổ 15, Thị trấn Nam Giang, Huyện Nam Trực, Nam Định"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1116_samples.png",
+        "image": "validation/1116_samples.png",
+        "text": "271/7B An Dương Vương, Phường 03, Quận 5, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1177_samples.png",
+        "image": "validation/1177_samples.png",
+        "text": "Số 24 Đồng Tâm, Phường Đồng Hoà, Quận Kiến An, Hải Phòng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1398_samples.png",
+        "image": "validation/1398_samples.png",
+        "text": "Số 518 ấp Tân Vĩnh Thuận, Xã Tân Ngãi, Thành Phố Vĩnh Long, Vĩnh Long"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0058_samples.png",
+        "image": "validation/0058_samples.png",
+        "text": "xã Quỳnh Xuân, Thị Xã Hoàng Mai, Nghệ An"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1102_samples.png",
+        "image": "validation/1102_samples.png",
+        "text": "127 Nguyễn Hội, Thành phố Phan Thiết, Bình Thuận"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0290_samples.png",
+        "image": "validation/0290_samples.png",
+        "text": "440 Nơ Trang Long, Phường 13, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1496_samples.png",
+        "image": "validation/1496_samples.png",
+        "text": "Thôn Đại Lương, Xã Thái Hòa, Huyện Lập Thạch, Vĩnh Phúc"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1603_samples.png",
+        "image": "validation/1603_samples.png",
+        "text": "11Bis Nguyễn Gia Thiều P.06, Phường 06, Quận 3, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1412_samples.png",
+        "image": "validation/1412_samples.png",
+        "text": "Đường 20-9, TT.Bắc Hà, Huyện Bắc Hà, Lào Cai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1133_samples.png",
+        "image": "validation/1133_samples.png",
+        "text": "316 Lê Văn Sỹ, Phường 1, Quận Tân Bình, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0860_samples.png",
+        "image": "validation/0860_samples.png",
+        "text": "58 Nguyễn Huy Tưởng, Phường Hoà Minh, Quận Liên Chiểu, Đà Nẵng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1114_samples.png",
+        "image": "validation/1114_samples.png",
+        "text": "B16/14, ấp 2, Xã Bình Chánh, Huyện Bình Chánh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0889_samples.png",
+        "image": "validation/0889_samples.png",
+        "text": "Số 57, Chính Kinh, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1612_samples.png",
+        "image": "validation/1612_samples.png",
+        "text": "Thọ Xuân, TT Núi Đối, Huyện Kiến Thuỵ, Hải Phòng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0521_samples.png",
+        "image": "validation/0521_samples.png",
+        "text": "Tầng 2, số 70 Đường Lữ Gia, Phường 15, Quận 11, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1289_samples.png",
+        "image": "validation/1289_samples.png",
+        "text": "Số 56 đường Hai Bà Trưng, Phường 6, Thành phố Đà Lạt, Lâm Đồng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0252_samples.png",
+        "image": "validation/0252_samples.png",
+        "text": "454 Nguyễn Thị Minh Khai, Phuờng 05, Quận 3, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0668_samples.png",
+        "image": "validation/0668_samples.png",
+        "text": "Cảng Hới, Phường Quảng Tiến, Thị Xã Sầm Sơn, Thanh Hoá"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "8.jpg",
+        "image": "validation/8.jpg",
+        "text": "phòng 101, tầng 1, lô 04-TT5B, khu đô thị Tây Nam Linh Đàm"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0075_samples.png",
+        "image": "validation/0075_samples.png",
+        "text": "Số 958, đường La Thành, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0551_samples.png",
+        "image": "validation/0551_samples.png",
+        "text": "151 Quang Trung, Phường 1, Thành phố Trà Vinh, Trà Vinh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1521_samples.png",
+        "image": "validation/1521_samples.png",
+        "text": "75 Thái Phiên, Phường Tây Lộc, Thành Phố Huế, Thừa Thiên - Huế"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1284_samples.png",
+        "image": "validation/1284_samples.png",
+        "text": "Số 151 Lê Lai, Phường Máy Chai, Quận Ngô Quyền, Hải Phòng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1772_samples.png",
+        "image": "validation/1772_samples.png",
+        "text": "Số 199 đường Quan Hoa, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0089_samples.png",
+        "image": "validation/0089_samples.png",
+        "text": "Tổ dân phố Thống Nhất, Phường Dương Nội, Quận Hà Đông, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1648_samples.png",
+        "image": "validation/1648_samples.png",
+        "text": "Số 38 đường 49, Phường 10, Quận 6, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1605_samples.png",
+        "image": "validation/1605_samples.png",
+        "text": "Tổ 30, Xã Diên Lạc, Huyện Diên Khánh, Khánh Hòa"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1020_samples.png",
+        "image": "validation/1020_samples.png",
+        "text": "ấp Hiệp Tâm 1, TTĐQ, Huyện Định Quán, Đồng Nai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0525_samples.png",
+        "image": "validation/0525_samples.png",
+        "text": "553 Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1283_samples.png",
+        "image": "validation/1283_samples.png",
+        "text": "732 Sư Van Hạnh (nối dài), Phường 12, Quận 10, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0401_samples.png",
+        "image": "validation/0401_samples.png",
+        "text": "Thôn Phú Mỹ, Xã Hàm Mỹ, Huyện Hàm Thuận Nam, Bình Thuận"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0687_samples.png",
+        "image": "validation/0687_samples.png",
+        "text": "Số 1A Đường 831, Thị trấn Vĩnh Hưng, Huyện Vĩnh Hưng, Long An"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0416_samples.png",
+        "image": "validation/0416_samples.png",
+        "text": "Tổ 3, ấp Vĩnh Thành B, Xã Vĩnh Hòa Hiệp, Huyện Châu Thành, Kiên Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1223_samples.png",
+        "image": "validation/1223_samples.png",
+        "text": "Thôn Yên Trung, Xã Yên Bình, Huyện Quang Bình, Hà Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0562_samples.png",
+        "image": "validation/0562_samples.png",
+        "text": "111/8/25A Vườn Lài, Phường Phú Thọ Hoà, Quận Tân phú, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0542_samples.png",
+        "image": "validation/0542_samples.png",
+        "text": "Số 08 tỉnh Lộ 28 -P. Pháo Đài, Thị xã Hà Tiên, Kiên Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1777_samples.png",
+        "image": "validation/1777_samples.png",
+        "text": "Số 30 Nguyễn Tuân, Phường 3, Quận Gò Vấp, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1647_samples.png",
+        "image": "validation/1647_samples.png",
+        "text": "Số 25, Nguyễn Bỉnh Khiêm, Phường 8, Thành phố Cà Mau, Cà Mau"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0204_samples.png",
+        "image": "validation/0204_samples.png",
+        "text": "116/13 Tuyên Quang, Phường Phú Thủy, Thành Phố Phan Thiết, Bình Thuận"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0221_samples.png",
+        "image": "validation/0221_samples.png",
+        "text": "658 Võ Văn Kiệt, Phường 01, Quận 5, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1786_samples.png",
+        "image": "validation/1786_samples.png",
+        "text": "Tổ 11 Khóm Tân Phú, Phường Mỹ Quý, Thành phố Long Xuyên, An Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0260_samples.png",
+        "image": "validation/0260_samples.png",
+        "text": "Đội 3 thôn Đồng Lư, Xã Đồng Quang, Huyện Quốc Oai, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0197_samples.png",
+        "image": "validation/0197_samples.png",
+        "text": "158A Võ Thị Sáu, Phường 08, Quận 3, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1343_samples.png",
+        "image": "validation/1343_samples.png",
+        "text": "Phường Quảng Thọ, Thị Xã Ba Đồn, Quảng Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0598_samples.png",
+        "image": "validation/0598_samples.png",
+        "text": "180 Đường số 3, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1120_samples.png",
+        "image": "validation/1120_samples.png",
+        "text": "Tổ 8, Khu vực 2, Phường Thủy Xuân, Thành phố Huế, Thừa Thiên - Huế"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1352_samples.png",
+        "image": "validation/1352_samples.png",
+        "text": "Số 96, Bạch Đằng, Khu phố 1, Thị Xã Kiến Tường, Long An"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0001_samples.png",
+        "image": "validation/0001_samples.png",
+        "text": "Số 289 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1649_samples.png",
+        "image": "validation/1649_samples.png",
+        "text": "134 Bạch Đằng, Phường 2, Quận Tân Bình, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1324_samples.png",
+        "image": "validation/1324_samples.png",
+        "text": "Đội 3, Thôn Thọ Sơn, Xã Quang Hưng, Huyện Ninh Giang, Hải Dương"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1237_samples.png",
+        "image": "validation/1237_samples.png",
+        "text": "376 Vinh Trung, Xã Vang Quới Đông, Huyện Bình Đại, Bến Tre"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0604_samples.png",
+        "image": "validation/0604_samples.png",
+        "text": "Khu phố Bình Giang 1, Phường Sơn Giang, Thị Xã Phước Long, Bình Phước"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1097_samples.png",
+        "image": "validation/1097_samples.png",
+        "text": "Số 21, Điện Biên Phủ, Phường Mỹ Phú, Thành phố Cao Lãnh, Đồng Tháp"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1566_samples.png",
+        "image": "validation/1566_samples.png",
+        "text": "xóm Bắc, Xã Khánh Lợi, Huyện Yên Khánh, Ninh Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1632_samples.png",
+        "image": "validation/1632_samples.png",
+        "text": "Số 18 Lê Đại Hành, Phường Tây Lộc, Thành Phố Huế, Thừa Thiên - Huế"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0568_samples.png",
+        "image": "validation/0568_samples.png",
+        "text": "29/5 Đường Số 19, Phường Linh Chiểu, Quận Thủ Đức, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0741_samples.png",
+        "image": "validation/0741_samples.png",
+        "text": "Thôn Đồng Côi, thị trấn Nam Giang, Huyện Nam Trực, Nam Định"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0485_samples.png",
+        "image": "validation/0485_samples.png",
+        "text": "481A Điện Biên Phủ, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1446_samples.png",
+        "image": "validation/1446_samples.png",
+        "text": "Thôn Phúc Hậu 2, Xã Dục Tú, Huyện Đông Anh, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0699_samples.png",
+        "image": "validation/0699_samples.png",
+        "text": "SN 175 khu phố 3, Thị trấn Vân Du, Huyện Thạch Thành, Thanh Hoá"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0256_samples.png",
+        "image": "validation/0256_samples.png",
+        "text": "Thôn Dược Hạ, Xã Tiên Dược, Huyện Sóc Sơn, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1794_samples.png",
+        "image": "validation/1794_samples.png",
+        "text": "9 Thống Nhất, Phường 11, Quận Gò Vấp, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1021_samples.png",
+        "image": "validation/1021_samples.png",
+        "text": "50B Đường 47, Phường Bình Thuận, Quận 7, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0421_samples.png",
+        "image": "validation/0421_samples.png",
+        "text": "Số 46 Hồ Tùng Mậu, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1086_samples.png",
+        "image": "validation/1086_samples.png",
+        "text": "Tổ 4, ấp Xóm Gò, Xã Long Phước, Huyện Long Thành, Đồng Nai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0135_samples.png",
+        "image": "validation/0135_samples.png",
+        "text": "Tổ 12, ấp Thuận Hòa, Xã Bình Sơn, Huyện Hòn Đất, Kiên Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0189_samples.png",
+        "image": "validation/0189_samples.png",
+        "text": "105B Trần Hưng Đạo, P. Mỹ Bình, Thành Phố Long Xuyên, An Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1138_samples.png",
+        "image": "validation/1138_samples.png",
+        "text": "26/24 Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1257_samples.png",
+        "image": "validation/1257_samples.png",
+        "text": "3/27A QL22, Huyện Hóc Môn, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0923_samples.png",
+        "image": "validation/0923_samples.png",
+        "text": "Số nhà 53, Ngõ 96 Phố Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0004_samples.png",
+        "image": "validation/0004_samples.png",
+        "text": "200 Phan Bội Châu, Phường Trường An, Thành phố Huế, Thừa Thiên - Huế"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0133_samples.png",
+        "image": "validation/0133_samples.png",
+        "text": "809 Quang Trung, Phường An Bình, Thị xã An Khê, Gia Lai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1747_samples.png",
+        "image": "validation/1747_samples.png",
+        "text": "Số 299 Trần Hưng Đạo, Phường Đại Phúc, Thành phố Bắc Ninh, Bắc Ninh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0921_samples.png",
+        "image": "validation/0921_samples.png",
+        "text": "Xóm 1 Đồng Nhân, Xã Đông La, Huyện Hoài Đức, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0599_samples.png",
+        "image": "validation/0599_samples.png",
+        "text": "178/11/27 Phan Đăng Lưu, Phường 03, Quận Phú Nhuận, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1306_samples.png",
+        "image": "validation/1306_samples.png",
+        "text": "34 601 Lê Duẩn, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1569_samples.png",
+        "image": "validation/1569_samples.png",
+        "text": "35/11 Trần Đình Xu, Phường Cầu Kho, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0253_samples.png",
+        "image": "validation/0253_samples.png",
+        "text": "ấp Tân Điền, Xã Giục Tượng, Huyện Châu Thành, Kiên Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1686_samples.png",
+        "image": "validation/1686_samples.png",
+        "text": "116, ấp Thới Thuận A, Thị Trấn Thới Lai, Huyện Thới Lai, Cần Thơ"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1475_samples.png",
+        "image": "validation/1475_samples.png",
+        "text": "Lưu Hoàng, Huyện Ứng Hoà, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0473_samples.png",
+        "image": "validation/0473_samples.png",
+        "text": "Tổ dân phố Tân Phong, Thị xã Kỳ Anh, Hà Tĩnh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0628_samples.png",
+        "image": "validation/0628_samples.png",
+        "text": "76 Thành Thái, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1356_samples.png",
+        "image": "validation/1356_samples.png",
+        "text": "208 Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0403_samples.png",
+        "image": "validation/0403_samples.png",
+        "text": "Số nhà 61, Đường Lê Duẩn, Tổ 1, Phường Quyết Tâm, TP. Sơn La, Sơn La"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0519_samples.png",
+        "image": "validation/0519_samples.png",
+        "text": "Tổ 25A, Phường Cẩm Thịnh, Thành phố Cẩm Phả, Quảng Ninh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0632_samples.png",
+        "image": "validation/0632_samples.png",
+        "text": "Số 10/75 Kiều Sơn, Phường Đằng Lâm, Quận Hải An, Hải Phòng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1055_samples.png",
+        "image": "validation/1055_samples.png",
+        "text": "Số 485/4 Nguyễn Kiệm, Phường 09, Quận Phú Nhuận, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1142_samples.png",
+        "image": "validation/1142_samples.png",
+        "text": "205 Điện Biên Phủ, Phường 15, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1672_samples.png",
+        "image": "validation/1672_samples.png",
+        "text": "319B5 Lý Thường Kiệt, Phường 15, Quận 11, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1331_samples.png",
+        "image": "validation/1331_samples.png",
+        "text": "Số 151, Tổ 9, ấp Tân Xuân, Xã Tân Phú, Huyện Tân Châu, Tây Ninh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0843_samples.png",
+        "image": "validation/0843_samples.png",
+        "text": "183 Tân Hương, Phường Tân Quý, Quận Tân phú, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0152_samples.png",
+        "image": "validation/0152_samples.png",
+        "text": "Số 02 Hoa Phượng, Phường 02, Quận Phú Nhuận, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1253_samples.png",
+        "image": "validation/1253_samples.png",
+        "text": "An Hòa A, Xã Chánh An, Huyện Mang Thít, Vĩnh Long"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0066_samples.png",
+        "image": "validation/0066_samples.png",
+        "text": "Đọ, Xã Bạch Sam, Huyện Mỹ Hào, Hưng Yên"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1202_samples.png",
+        "image": "validation/1202_samples.png",
+        "text": "Khu đô thị Tp Lễ Hội, Phường Vĩnh Mỹ, Thành phố Châu Đốc, An Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1170_samples.png",
+        "image": "validation/1170_samples.png",
+        "text": "Phường Mai Dịch, Quận Cầu Giấy, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0489_samples.png",
+        "image": "validation/0489_samples.png",
+        "text": "Số 405 Thuỵ Khuê P.Bưởi, Quận Tây Hồ, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1151_samples.png",
+        "image": "validation/1151_samples.png",
+        "text": "Lầu 2, 52 Trần Văn Danh, Phường 13, Quận Tân Bình, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0230_samples.png",
+        "image": "validation/0230_samples.png",
+        "text": "Vân Hòa, Xã Vân Tảo, Huyện Thường Tín, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0811_samples.png",
+        "image": "validation/0811_samples.png",
+        "text": "Tổ 8, ấp Thạnh Phú, Xã Khánh An, Huyện An Phú, An Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0466_samples.png",
+        "image": "validation/0466_samples.png",
+        "text": "548-550 Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1367_samples.png",
+        "image": "validation/1367_samples.png",
+        "text": "Số 137 Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0124_samples.png",
+        "image": "validation/0124_samples.png",
+        "text": "xã Hòa Hiệp, Xã Hòa Hiệp, Huyện Xuyên Mộc, Bà Rịa - Vũng Tàu"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1203_samples.png",
+        "image": "validation/1203_samples.png",
+        "text": "Số 22 Đường Hoàng Đức Tương, Phường 4, Quận 11, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0125_samples.png",
+        "image": "validation/0125_samples.png",
+        "text": "Thị trấn Uyên hưng, Thị xã Tân Uyên, Bình Dương"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0365_samples.png",
+        "image": "validation/0365_samples.png",
+        "text": "Ba Mến, An Trạch A, Huyện Đông Hải, Bạc Liêu"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0149_samples.png",
+        "image": "validation/0149_samples.png",
+        "text": "850/9 Quốc lộ 52, Khu phố 6, Phường Hiệp Phú, Quận 9, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1025_samples.png",
+        "image": "validation/1025_samples.png",
+        "text": "Xã Điền Quang, Huyện Bá Thước, Thanh Hoá"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0101_samples.png",
+        "image": "validation/0101_samples.png",
+        "text": "Thôn Phú Khánh Thượng, Xã Diên Thạnh, Huyện Diên Khánh, Khánh Hòa"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0307_samples.png",
+        "image": "validation/0307_samples.png",
+        "text": "Thôn Tân Xuyên, Xã Tân Hợp, Huyện Hướng Hoá, Quảng Trị"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1072_samples.png",
+        "image": "validation/1072_samples.png",
+        "text": "58/29 Tân Lập 1, Khu phố 3, Phường Hiệp Phú, Quận 9, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1014_samples.png",
+        "image": "validation/1014_samples.png",
+        "text": "31 Đường số 34, Phường Bình Trị Đông B, Quận Bình Tân, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0961_samples.png",
+        "image": "validation/0961_samples.png",
+        "text": "Số 224, ấp 4, Xã Thạnh Đức, Huyện Bến Lức, Long An"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1181_samples.png",
+        "image": "validation/1181_samples.png",
+        "text": "Số 96, Phố Me, Thị trấn Me, Huyện Gia Viễn, Ninh Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0087_samples.png",
+        "image": "validation/0087_samples.png",
+        "text": "Mỏ đá vôi Đồng Bà Ký, Xã Yên Vượng, Huyện Hữu Lũng, Lạng Sơn"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0102_samples.png",
+        "image": "validation/0102_samples.png",
+        "text": "Xã Phương Công, Huyện Tiền Hải, Thái Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0627_samples.png",
+        "image": "validation/0627_samples.png",
+        "text": "Số 56, phố Đông Các, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1512_samples.png",
+        "image": "validation/1512_samples.png",
+        "text": "138A đường Giảng Võ, Phường Giảng Võ, Quận Ba Đình, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1095_samples.png",
+        "image": "validation/1095_samples.png",
+        "text": "Xóm Gò Mu, Xã Thanh Lương, Huyện Lương Sơn, Hòa Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1171_samples.png",
+        "image": "validation/1171_samples.png",
+        "text": "TDP9, Thị trấn Ea Drăng, Huyện Ea H'leo, Đắc Lắc"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0104_samples.png",
+        "image": "validation/0104_samples.png",
+        "text": "32/17 Phan Đăng Lưu, Phường Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0430_samples.png",
+        "image": "validation/0430_samples.png",
+        "text": "Nhà bà Mai Thị Hương, thôn 8, Xã Hà Vinh, Huyện Hà Trung, Thanh Hoá"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0592_samples.png",
+        "image": "validation/0592_samples.png",
+        "text": "Số 101 Đồng Tâm, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0373_samples.png",
+        "image": "validation/0373_samples.png",
+        "text": "359/23 Lê Văn Sỹ, Phường 12, Quận 3, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0302_samples.png",
+        "image": "validation/0302_samples.png",
+        "text": "Xã quy mỹ, Huyện Tân Lạc, Hòa Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0981_samples.png",
+        "image": "validation/0981_samples.png",
+        "text": "Số 506, đường Trương Định, Phường Tân Mai, Quận Hoàng Mai, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1456_samples.png",
+        "image": "validation/1456_samples.png",
+        "text": "Khu Nông Giang, Thị trấn Tây Đằng, Huyện Ba Vì, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1340_samples.png",
+        "image": "validation/1340_samples.png",
+        "text": "Số 78/26B Trần Phú, khóm 1, Phường 2, Thành phố Trà Vinh, Trà Vinh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1123_samples.png",
+        "image": "validation/1123_samples.png",
+        "text": "Tổ 5, Phường Tân Phong, Thành Phố Lai Châu, Lai Châu"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1411_samples.png",
+        "image": "validation/1411_samples.png",
+        "text": "Số 223 đường Hà Huy Tập, Thị trấn Yên Viên, Huyện Gia Lâm, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1610_samples.png",
+        "image": "validation/1610_samples.png",
+        "text": "Núi Móng, Xã Hoàn Sơn, Huyện Tiên Du, Bắc Ninh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0569_samples.png",
+        "image": "validation/0569_samples.png",
+        "text": "Xã Thanh Tuyền, Huyện Thanh Liêm, Hà Nam"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0916_samples.png",
+        "image": "validation/0916_samples.png",
+        "text": "Thôn Bối Khê, Xã Bãi Sậy, Huyện Ân Thi, Hưng Yên"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0528_samples.png",
+        "image": "validation/0528_samples.png",
+        "text": "Thôn Mỹ Chánh, Xã Hải Chánh, Huyện Hải Lăng, Quảng Trị"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0784_samples.png",
+        "image": "validation/0784_samples.png",
+        "text": "Số 13C, Khu dân cư Nam Phương, Phường An Phú, Tx Thuận An, Bình Dương"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "5.jpg",
+        "image": "validation/5.jpg",
+        "text": "Vĩnh Trung Plaza, B, 255-257 đường Hùng Vương, phường Vĩnh Trung"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0761_samples.png",
+        "image": "validation/0761_samples.png",
+        "text": "Xã Chương Dương, Huyện Đông Hưng, Thái Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0322_samples.png",
+        "image": "validation/0322_samples.png",
+        "text": "84/4 Hoàng Hữu Nam, Phường Long Thạnh Mỹ, Quận 9, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1775_samples.png",
+        "image": "validation/1775_samples.png",
+        "text": "ấp Vĩnh Tiến, Huyện Vĩnh Thạnh, Cần Thơ"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1696_samples.png",
+        "image": "validation/1696_samples.png",
+        "text": "94C Cao Thắng, Phường 04, Quận 3, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0422_samples.png",
+        "image": "validation/0422_samples.png",
+        "text": "Thôn 9, Thị Trấn An Lão, Huyện An Lão, Bình Định"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0970_samples.png",
+        "image": "validation/0970_samples.png",
+        "text": "Tổ 12 ngõ 27 Lê Lợi, Phường Máy Tơ, Quận Ngô Quyền, Hải Phòng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1538_samples.png",
+        "image": "validation/1538_samples.png",
+        "text": "506 Phú Thọ Hoà, Phường Phú Thọ Hoà, Quận Tân phú, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0817_samples.png",
+        "image": "validation/0817_samples.png",
+        "text": "148 Nguyễn Trãi, Phường Bến Thành, Quận 1, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0325_samples.png",
+        "image": "validation/0325_samples.png",
+        "text": "94 Tô Hiến Thành, Quận Hai Bà Trưng, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0469_samples.png",
+        "image": "validation/0469_samples.png",
+        "text": "29 Khóm B, TT Tân Hiệp, Huyện Tân Hiệp, Kiên Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1804_samples.png",
+        "image": "validation/1804_samples.png",
+        "text": "269 Trương Vĩnh Ký, Phường Tân Thành, Quận Tân phú, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0015_samples.png",
+        "image": "validation/0015_samples.png",
+        "text": "Phố 2, Huyện Bá Thước, Thanh Hoá"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1092_samples.png",
+        "image": "validation/1092_samples.png",
+        "text": "819/30 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1320_samples.png",
+        "image": "validation/1320_samples.png",
+        "text": "Số 1, phố Phan Đình Giót, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0088_samples.png",
+        "image": "validation/0088_samples.png",
+        "text": "5/121/1 Nơ Trang Long, Phường 7, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0185_samples.png",
+        "image": "validation/0185_samples.png",
+        "text": "121/28/20 Đường TA19, phường Thới An, Quận 12, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1112_samples.png",
+        "image": "validation/1112_samples.png",
+        "text": "Hùng Vương, Khóm 1, Phường 1, Thành phố Sa Đéc, Đồng Tháp"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0892_samples.png",
+        "image": "validation/0892_samples.png",
+        "text": "137/5 khu Y4, Phường An Phú, TX Thuận An, Bình Dương"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0139_samples.png",
+        "image": "validation/0139_samples.png",
+        "text": "28/6 Trương Công Định, Phường 14, Quận Tân Bình, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0496_samples.png",
+        "image": "validation/0496_samples.png",
+        "text": "Đường Hùng Vương, Phường Tân Bình, Thị xã Đồng Xoài, Bình Phước"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0932_samples.png",
+        "image": "validation/0932_samples.png",
+        "text": "3/3E ấp 2, Xã Xuân Thới Thượng, Huyện Hóc Môn, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1540_samples.png",
+        "image": "validation/1540_samples.png",
+        "text": "22 Đất Thánh, Phường 6, Quận Tân Bình, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0360_samples.png",
+        "image": "validation/0360_samples.png",
+        "text": "Thôn Chánh Thiện, Xã Cát Thành, Huyện Phù Cát, Bình Định"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1656_samples.png",
+        "image": "validation/1656_samples.png",
+        "text": "Thôn Lương Phước, Xã Hòa Phú, Huyện Tây Hoà, Phú Yên"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0272_samples.png",
+        "image": "validation/0272_samples.png",
+        "text": "Tỉnh thôn 1, Xã Xuân Hòa, Huyện Thọ Xuân, Thanh Hoá"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0903_samples.png",
+        "image": "validation/0903_samples.png",
+        "text": "Khu 5, xã Tiên Lương, Huyện Cẩm Khê, Phú Thọ"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1760_samples.png",
+        "image": "validation/1760_samples.png",
+        "text": "51B Phan Đình Phùng, Phường Quán Thánh, Quận Ba Đình, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1527_samples.png",
+        "image": "validation/1527_samples.png",
+        "text": "Số 26, ngõ 202F, phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0377_samples.png",
+        "image": "validation/0377_samples.png",
+        "text": "24 An Dương Vương P.10, Phường 10, Quận 6, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0494_samples.png",
+        "image": "validation/0494_samples.png",
+        "text": "Số 183 Lê Thành Phương, Phường 8, TP Tuy Hoà, Phú Yên"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0208_samples.png",
+        "image": "validation/0208_samples.png",
+        "text": "202/4 Nguyễn Xí, Phường 26, Quận Bình Thạnh, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0679_samples.png",
+        "image": "validation/0679_samples.png",
+        "text": "Xóm Nam Hoà, Xã Xuất Hóa, Huyện Lạc Sơn, Hòa Bình"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1476_samples.png",
+        "image": "validation/1476_samples.png",
+        "text": "Số 68, Thị trấn Liên Quan, Huyện Thạch Thất, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0809_samples.png",
+        "image": "validation/0809_samples.png",
+        "text": "Số 106 phố Văn La, Phường Phú La, Quận Hà Đông, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0109_samples.png",
+        "image": "validation/0109_samples.png",
+        "text": "Số 298, Nguyễn Trãi, Phường Tân Sơn, Thành phố Thanh Hoá, Thanh Hoá"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0186_samples.png",
+        "image": "validation/0186_samples.png",
+        "text": "390A Ngô Gia Tự, Phường 04, Quận 10, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1308_samples.png",
+        "image": "validation/1308_samples.png",
+        "text": "102 Phan Văn Hớn, phường Tân Thới Nhất, Quận 12, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1323_samples.png",
+        "image": "validation/1323_samples.png",
+        "text": "105 Phan Bội Châu, Phường Ba Đình, Thành phố Thanh Hoá, Thanh Hoá"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1364_samples.png",
+        "image": "validation/1364_samples.png",
+        "text": "Thôn Đọi Nhất, xã Đọi Sơn, Xã Đọi Sơn, Huyện Duy Tiên, Hà Nam"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0095_samples.png",
+        "image": "validation/0095_samples.png",
+        "text": "124 Đường 32, Phường Bình Trị Đông B, Quận Bình Tân, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1716_samples.png",
+        "image": "validation/1716_samples.png",
+        "text": "Số 166 phố Ngọc Khánh, Phường Giảng Võ, Quận Ba Đình, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0941_samples.png",
+        "image": "validation/0941_samples.png",
+        "text": "Số 10, phố Chùa Bộc, Phường Quang Trung, Quận Đống đa, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0826_samples.png",
+        "image": "validation/0826_samples.png",
+        "text": "Xã Liên Minh, Xã Liên Minh, Huyện Võ Nhai, Thái Nguyên"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0852_samples.png",
+        "image": "validation/0852_samples.png",
+        "text": "Thôn 4, Huyện Tiên Phước, Quảng Nam"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0710_samples.png",
+        "image": "validation/0710_samples.png",
+        "text": "45/311G Phan Huy ích, Phường 12, Quận Gò Vấp, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0867_samples.png",
+        "image": "validation/0867_samples.png",
+        "text": "Số 18B Ma Trang Sơn, Phường 5, Thành phố Đà Lạt, Lâm Đồng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1334_samples.png",
+        "image": "validation/1334_samples.png",
+        "text": "Số 256, tổ 41, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1770_samples.png",
+        "image": "validation/1770_samples.png",
+        "text": "Nhà 7 ngách 28/49 khu 28B phố Điện Biên Phủ, Quận Ba Đình, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0178_samples.png",
+        "image": "validation/0178_samples.png",
+        "text": "KP.06, Phường Linh Trung, Quận Thủ Đức, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0374_samples.png",
+        "image": "validation/0374_samples.png",
+        "text": "Xã Yên Phú - Huyện Bắc Mê - Hà Giang, Huyện Bắc Mê, Hà Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0818_samples.png",
+        "image": "validation/0818_samples.png",
+        "text": "Số 215, đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1576_samples.png",
+        "image": "validation/1576_samples.png",
+        "text": "Thôn Thuận Hưng, Xã Thuận Hạnh, Huyện Đắk Song, Đắk Nông"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0482_samples.png",
+        "image": "validation/0482_samples.png",
+        "text": "45/10 Bông Sao, Phường 5, Quận 8, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0953_samples.png",
+        "image": "validation/0953_samples.png",
+        "text": "số 46 phố Tân ấp, phường Phúc Xá, Quận Ba Đình, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1165_samples.png",
+        "image": "validation/1165_samples.png",
+        "text": "Số 18 đường Tố Hữu, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1154_samples.png",
+        "image": "validation/1154_samples.png",
+        "text": "Số 44/2, Khu phố Đông Chiêu, TX Dĩ An, Bình Dương"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1466_samples.png",
+        "image": "validation/1466_samples.png",
+        "text": "18 Phan Chu Trinh, P.Quang Vinh, Thành Phố Biên Hoà, Đồng Nai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0255_samples.png",
+        "image": "validation/0255_samples.png",
+        "text": "16 Lê Ngô Cát, Phường Trường An, Thành phố Huế, Thừa Thiên - Huế"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1577_samples.png",
+        "image": "validation/1577_samples.png",
+        "text": "ấp Bình An, Xã Song Bình, Huyện Chợ Gạo, Tiền Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0423_samples.png",
+        "image": "validation/0423_samples.png",
+        "text": "24 Đường 96, Phường Thạnh Mỹ Lợi, Quận 2, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0979_samples.png",
+        "image": "validation/0979_samples.png",
+        "text": "Thôn Hoàng Mai 3, Xã Hoàng Ninh, Huyện Việt Yên, Bắc Giang"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1355_samples.png",
+        "image": "validation/1355_samples.png",
+        "text": "Số 4, ngõ 347 Nguyễn Khang, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0555_samples.png",
+        "image": "validation/0555_samples.png",
+        "text": "Số 110B đường Y Ngông, Phường Tân Tiến, TP.Buôn Ma Thuột, Đắc Lắc"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0472_samples.png",
+        "image": "validation/0472_samples.png",
+        "text": "Số 8, Đường Số 35, Phường Bình Thuận, Quận 7, TP Hồ Chí Minh"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1037_samples.png",
+        "image": "validation/1037_samples.png",
+        "text": "Thôn Văn Yên, Xã Ia Yok, Huyện Ia Grai, Gia Lai"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "1551_samples.png",
+        "image": "validation/1551_samples.png",
+        "text": "Số 461/2/3 phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0661_samples.png",
+        "image": "validation/0661_samples.png",
+        "text": "Xã Lộc Ngãi, Huyện Bảo Lâm, Lâm Đồng"
+      },
+      {
+        "split": "validation",
+        "new_sample": "from_test_new_866",
+        "image_name": "0049_samples.png",
+        "image": "validation/0049_samples.png",
+        "text": "Lô IV, Huyện Trảng Bom, Đồng Nai"
+      }
+    ]
   }
 ]
